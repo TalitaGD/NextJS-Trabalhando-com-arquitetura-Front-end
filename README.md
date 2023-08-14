@@ -1,1 +1,1 @@
-# NextJS-Trabalhando-com-arquitetura-Front-end
+# 📌 Curso Alura | Next.js: Trabalhando com arquitetura Front-end
