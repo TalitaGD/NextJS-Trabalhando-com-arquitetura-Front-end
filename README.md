@@ -1,1 +1,1 @@
-# 📌 Curso Alura | Next.js: Trabalhando com arquitetura Front-end
+# Arquitetura com NextJS e Monorepos Front End
