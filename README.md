@@ -1,1 +1,1 @@
-# Arquitetura com NextJS e Monorepos Front End
+# Arquitetura com NextJS e Monorepos Front-End
